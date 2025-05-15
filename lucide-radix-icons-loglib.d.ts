@@ -1,9 +1,5 @@
 
-declare module 'lucide-radix-icons-loglib' {
-  import type { LucideProps } from 'lucide-react';
-  import type { ForwardRefExoticComponent, RefAttributes } from 'react';
-  const ArrowLeft: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>;
-  const Edit3: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>;
-  const Rocket: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>;
-  export { ArrowLeft, Edit3, Rocket };
-}
+// This file can be removed as the package 'lucide-radix-icons-loglib' is not used.
+// If you have specific global type declarations, you can place them here.
+// For now, it's left empty as its original purpose is obsolete.
+
