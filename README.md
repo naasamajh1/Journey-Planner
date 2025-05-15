@@ -1,5 +1,6 @@
-# Firebase Studio
+# Journey Planner
 
-This is a NextJS starter in Firebase Studio.
+Plan your Journey.
+Add all your journey details of each day.
 
-To get started, take a look at src/app/page.tsx.
+Ai suggestions to do activities at your destination.
