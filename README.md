@@ -86,4 +86,4 @@ npm test
 
 ---
 
-🔙 [Return](#table-of-contents)
+[Test the app](https://journeyplanr.netlify.app/)
